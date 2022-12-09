@@ -1,5 +1,5 @@
 # Capstone Project
-Anomaly Detection and Classification of IoT attacks using Autoencoder and Multi-Output DNN
+Anomaly Detection and Classification of IoT attacks using Autoencoder and Multi-Output DNN  
 Capstone Project by Team 18 for the year 2022-2023
 ## Team Members:
 * Sanjana S Murthy PES2UG19CS364
